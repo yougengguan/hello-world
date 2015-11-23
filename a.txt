@@ -6,4 +6,8 @@ this is master a.txt
 789
 =======
 123
+=======
+123
+>>>>>>> parent of aa11eb3... 123/456
+123
 >>>>>>> parent of aa11eb3... 123/456
