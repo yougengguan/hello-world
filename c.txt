@@ -2,4 +2,9 @@ this is b.txt
 
 start
 
+<<<<<<< HEAD
 master-3
+=======
+master-1
+branch1-2
+>>>>>>> b1
