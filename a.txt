@@ -3,8 +3,13 @@ this is master a.txt
 start
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 master-3
 =======
 master-1
 branch1-2
 >>>>>>> b1
+=======
+master-2
+branch2-2
+>>>>>>> b2
