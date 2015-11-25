@@ -1,0 +1,64 @@
+diff --git a/a.txt b/a.txt
+index c4253d8..9cfaa5a 100644
+--- a/a.txt
++++ b/a.txt
+@@ -2,5 +2,5 @@ this is master a.txt
+ 
+ start
+ 
+-master-1
+-branch1-2
++master-2
++branch2-2
+\ No newline at end of file
+diff --git a/b.txt b/b.txt
+index 27da37e..42766c0 100644
+--- a/b.txt
++++ b/b.txt
+@@ -2,5 +2,5 @@ this is b.txt
+ 
+ start
+ 
+-master-1
+-branch1-2
++master-2
++branch2-2
+diff --git a/b1.txt b/b1.txt
+deleted file mode 100644
+index 27da37e..0000000
+--- a/b1.txt
++++ /dev/null
+@@ -1,6 +0,0 @@
+-this is b.txt
+-
+-start
+-
+-master-1
+-branch1-2
+diff --git a/b2.txt b/b2.txt
+new file mode 100644
+index 0000000..91b648c
+--- /dev/null
++++ b/b2.txt
+@@ -0,0 +1,6 @@
++this is b.txt
++
++start
++
++master-2
++branch2-2
+\ No newline at end of file
+diff --git a/c.txt b/c.txt
+index 1c867e3..91b648c 100644
+--- a/c.txt
++++ b/c.txt
+@@ -2,5 +2,5 @@ this is b.txt
+ 
+ start
+ 
+-master-1
+-branch1-2
+\ No newline at end of file
++master-2
++branch2-2
+\ No newline at end of file
