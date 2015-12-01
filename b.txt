@@ -5,3 +5,5 @@ b1 branch over-write master
 
 
 merge master
+
+try no-commit merge
