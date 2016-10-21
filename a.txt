@@ -1,17 +1,6 @@
 this is master a.txt
 
-start
-
-master-1
-123456789
-
-<<<<<<< HEAD
-hhj
-
-
-=======
-abcdefg
->>>>>>> b1
+over-write master
 
 
 
