@@ -4,3 +4,5 @@ start
 
 master-1
 branch1-2
+
+automatically stage all tracked, modified files before the commit
