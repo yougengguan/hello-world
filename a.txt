@@ -1,6 +1,5 @@
-this is master a.txt
-
-over-write master
+a.txt
+master: start
 
 
 

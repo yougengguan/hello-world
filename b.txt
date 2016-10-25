@@ -1,9 +1,4 @@
-this is b.txt
+b.txt
 
-b1 branch over-write master
-
-
-
-
-merge master
+master
 

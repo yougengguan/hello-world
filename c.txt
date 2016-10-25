@@ -1,17 +1,3 @@
-this is b.txt
+c.txt
 
-start
-
-master-1
-branch1-2
-
-automatically stage all tracked, modified files before the commit
-rgrew
-
-2016
-
-ewrfdwrfew
-
-sfddsatfsadggit ch
-
-ddsadgit stat
+master
