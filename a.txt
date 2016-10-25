@@ -1,5 +1,6 @@
 a.txt
 master: start
+master: change1
 
 
 
