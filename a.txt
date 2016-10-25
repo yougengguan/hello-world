@@ -2,7 +2,7 @@ a.txt
 master: start
 master: change1
 master: change2
-brancg: change3
+branch: change3
 
 
 
