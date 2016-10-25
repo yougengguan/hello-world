@@ -1,4 +1,5 @@
 b.txt
 
-master
+master:
+master: change1
 
