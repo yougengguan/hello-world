@@ -2,4 +2,5 @@ b.txt
 
 master:
 master: change1
+branch1: change2
 
