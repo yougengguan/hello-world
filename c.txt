@@ -2,3 +2,4 @@ c.txt
 
 master:
 master: change1
+master: change2
